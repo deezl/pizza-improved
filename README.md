@@ -1,7 +1,9 @@
 # Deezl's Version
 ---
 
-This has been modified to work with farming_redo and mobs_redo with mobs_animal on *VanessaE's Bananaland Server.
+This has been modified to work with farming_redo and mobs_redo with mobs_animal on *VanessaE's Bananaland Server*
+The folder should be renamed to 'pizza' instead of 'pizza-improved'
+
 
 
 PIZZA MOD
