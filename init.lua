@@ -21,6 +21,7 @@ minetest.register_node("pizza:pizza", {
     wield_image = "pizza.png",
     groups = { dig_immediate=2 },
     paramtype = "light",
+    paramtype2 = "wallmounted",
     on_use = minetest.item_eat(30),
 })
 
