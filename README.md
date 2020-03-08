@@ -1,4 +1,10 @@
-   PIZZA MOD
+# Deezl's Version
+---
+
+This has been modified to work with farming_redo and mobs_redo with mobs_animal on *VanessaE's Bananaland Server.
+
+
+PIZZA MOD
 jogag's version
 ---------------
 
@@ -21,8 +27,9 @@ Everything is released under WTFPL license.
 Mod dependencies
 ----------------
 
-- farming (included in minetest)
-- food (https://github.com/rubenwardy/food)
+- farming_redo (https://notabug.org/TenPlus1/farming)
+- mobs_redo (https://notabug.org/TenPlus1/mobs_redo)
+- mobs_animal (https://notabug.org/TenPlus1/mobs_animal)
 
 Recommended mods
 ----------------
@@ -52,3 +59,4 @@ Screenshots
 -----------
 
 ![pizza](http://files.callistix.net/www/minetest/pizza.png)
+
